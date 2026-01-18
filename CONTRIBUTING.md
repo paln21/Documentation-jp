@@ -1,5 +1,5 @@
-# Contributing Documentation
+# ドキュメントへの貢献について
 
-Guidelines for contributing can be found [on the docs][contributing].
+貢献する際のガイドラインについては、[ドキュメントページ][貢献ガイド]をご覧ください。
 
-[contributing]: https://docs.minecraftforge.net/en/latest/contributing/
+[貢献ガイド]: https://docs.minecraftforge.net/en/latest/contributing/
